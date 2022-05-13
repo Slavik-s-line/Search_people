@@ -14,4 +14,5 @@ List of peoples in database:
 ('Олег', 'Мельник', 1995)
 
 ![image](https://user-images.githubusercontent.com/78733510/168375907-a674f470-c3bf-4350-874a-af58d54989ee.png)
+![image](https://user-images.githubusercontent.com/78733510/168376128-889bd2d9-d84c-41c1-adc5-5a332b84b7d5.png)
 ![image](https://user-images.githubusercontent.com/78733510/168375982-6dd7a8e1-4ec9-4352-be0d-c95644f96d02.png)
